@@ -5,3 +5,7 @@ Answer: to be able to easily share our projects with our group memebers, TA's, a
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: could be applied to finaces specifically risk modling. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge keeps the commit history and merges all the commits while rebasing changes the history by changing the base of your branch and generates a new linear history. 
