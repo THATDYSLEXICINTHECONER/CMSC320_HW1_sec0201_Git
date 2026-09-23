@@ -8,4 +8,4 @@ Answer: could be applied to finaces specifically risk modling.
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: merge keeps the commit history and merges all the commits while rebasing changes the history by changing the base of your branch and generates a new linear history. 
+Answer: Merge keeps the commit history and merges all the commits while rebasing changes the history by changing the base of your branch and generates a new linear history. 
